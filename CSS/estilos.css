@@ -7,6 +7,7 @@ h1 {
   border: 5px solid pink;
   padding: 1px; 
   color:rgb(192, 130, 59);
+  text-align: center;
   margin: 10px;
   margin-top: 40px;
   margin-bottom: 20px;
@@ -22,8 +23,10 @@ h1 {
 span {
   font-family: 'Anton', sans-serif cursive; 
   font-size: 23px;
+  color: rgb(192, 130, 59);
+  text-align: center;
   style="text-decoration: underline;
-  color: peachpuff; 
+  text-decoration: underline;
   font-weight: bold;
   width: 300px; 
 }
@@ -31,6 +34,7 @@ span {
 h2 { 
   font-family: 'Anton', sans-serif cursive; 
   font-size: 23px;
+  text-align: center;
   border: 5px s;
   padding: 1px; 
   color: pink;
@@ -97,11 +101,12 @@ section {
 
 }
 
+
 form {
 font-family: 'Anton', sans-serif cursive; 
 font-size: 23px;
 padding: 1px; 
-color:olid rgb(196, 121, 51);
+color: solid rgb(196, 121, 51);
 margin: 10px;
 margin-top: 40px;
 margin-bottom: 20px;
@@ -116,6 +121,7 @@ padding-right: 20px;
 #mi_párrafo {
   font-family:'Anton', sans-serif cursive; 
   border: solid;  
+  text-align: center;
   color: rgb(192, 130, 59);
   font-size: 23px;
   border: 5px solid pink;
